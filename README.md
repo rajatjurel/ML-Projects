@@ -1,1 +1,1 @@
-# Flight-Fare-Predicstion
+# Projects
